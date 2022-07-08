@@ -64,7 +64,34 @@
     <div class="container">
 
       <h1><a href="index.html">Ritesh Khan</a></h1>
-      <h2 style="color:#fff">Hi, welcome to my homepage! </span></h2>
+      <!DOCTYPE html>
+<html> 
+<head>
+    <title>Greeting Message using JavaScript</title> 
+</head>
+<body>
+    <label id="lblGreetings"></label>
+</body>
+
+<script>
+    var myDate = new Date();
+    var hrs = myDate.getHours();
+
+    var greet;
+
+    if (hrs < 12)
+        greet = 'Good Morning';
+    else if (hrs >= 12 && hrs <= 17)
+        greet = 'Good Afternoon';
+    else if (hrs >= 17 && hrs <= 24)
+        greet = 'Good Evening';
+
+    document.getElementById('lblGreetings').innerHTML =
+        '<b>' + greet + '</b> and welcome to my homepage!';
+</script> 
+</html>
+
+      <h2 style="color:#fff">Hi, I'm Ritesh Khan, a Ph.D. student of Mathematics. </span></h2>
       <nav class="nav-menu d-none d-lg-block">
         <ul>
           <li class="active"><a href="#header"> <span>Home</span></a></li>
