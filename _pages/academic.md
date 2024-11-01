@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computational Mathematics, Indian Institute of Technology Madras, Chennai (2019-Present), CGPA 8.87/10.
-* M.Sc. in Mathematics, Ramakrishna Mission Vivekananda Educational And Research Institute(RKMVERI), Howrah (2017-2019), CGPA 9.43.
-* B.Sc. in Mathematics (Hons.) Midnapore College (Autonomous), Midnapore (2014-2017), Percentage 81.25%. 
+* Ph.D in Computational Mathematics, Indian Institute of Technology Madras, Chennai (2019-Present), **CGPA 8.87/10**.
+* M.Sc. in Mathematics, Ramakrishna Mission Vivekananda Educational And Research Institute (RKMVERI), Howrah (2017-2019), **CGPA 9.43/10**.
+* B.Sc. in Mathematics (Hons.) Midnapore College (Autonomous), Midnapore (2014-2017), **Percentage 81.25%**. 
 
 <!-- Work experience
 ======
@@ -34,12 +34,17 @@ Education
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Languages
+  * **C, C++, MATLAB, Python3, MySQL**
+
+* Software & Tools
+  * **LaTeX, git**
+
+* OS
+  * **Linux/Unix, Windows**
+
+* Libraries
+  * **Eigen, LAPACK, OpenMP, Numpy, Scipy, TesnorFlow**
 
 Publications
 ======
