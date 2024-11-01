@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "ACADEMIC"
+# title: "ACADEMIC"
 permalink: /academic/
 author_profile: true
 redirect_from:
