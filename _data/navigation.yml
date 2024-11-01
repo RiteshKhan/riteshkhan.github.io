@@ -12,16 +12,17 @@ main:
     url: /publications/
 
   - title: "Skills"
-    url: /skills/    
+    url: /skills/ 
 
-  - title: "Teaching"
-    url: /teaching/   
+  - title: "Achievements"
+    url: /achievements/   
+
+  # - title: "Teaching"
+  #   url: /teaching/   
 
   - title: "CV"
     url: /files/CV.pdf 
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "News"
+  #   url: /year-archive/
     
-  # - title: "Guide"
-  #   url: /markdown/
