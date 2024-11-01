@@ -40,10 +40,10 @@ Skills
 * ## <u> Software & Tools <u>
   * **LaTeX, git**
 
-* OS
+* ## <u> OS <u>
   * **Linux/Unix, Windows**
 
-* Libraries
+* ## <u> Libraries <u>
   * **Eigen, LAPACK, OpenMP, Numpy, Scipy, TesnorFlow**
 
 Publications
