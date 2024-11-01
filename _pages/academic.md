@@ -31,20 +31,6 @@ Education
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git -->
-  
-Skills
-======
-* ## <u> Computer Languages <u>
-  * **C, C++, MATLAB, Python3, MySQL**
-
-* ## <u> Software & Tools <u>
-  * **LaTeX, git**
-
-* ## <u> OS <u>
-  * **Linux/Unix, Windows**
-
-* ## <u> Libraries <u>
-  * **Eigen, LAPACK, OpenMP, Numpy, Scipy, TesnorFlow**
 
 <!-- Publications
 ======
