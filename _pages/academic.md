@@ -34,10 +34,10 @@ Education
   
 Skills
 ======
-* ## Computer Languages
+* ## <u> Computer Languages <u>
   * **C, C++, MATLAB, Python3, MySQL**
 
-* ## Software & Tools
+* ## <u> Software & Tools <u>
   * **LaTeX, git**
 
 * OS
