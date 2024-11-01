@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Ritesh Khan"
-  pronouns         : example: "he/him"  
+  pronouns         : "he/him"  
   bio              : "Pursuing PhD in Computational Mathematics"
   location         : "India"
   employer         : "IIT Madras"
