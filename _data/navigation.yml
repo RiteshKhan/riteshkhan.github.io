@@ -7,9 +7,6 @@
 main:
   - title: "Academic"
     url: /academic/
-  
-  - title: "CV"
-    url: /files/CV.pdf
 
   - title: "Publications"
     url: /publications/
@@ -18,7 +15,10 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
+
+  - title: "CV"
+    url: /files/CV.pdf 
         
   - title: "Blog Posts"
     url: /year-archive/
