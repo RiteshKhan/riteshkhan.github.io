@@ -4,7 +4,7 @@ layout: archive
 permalink: /academic/
 author_profile: true
 redirect_from:
-  - /resume
+  - /academic
 ---
 
 {% include base_path %}
