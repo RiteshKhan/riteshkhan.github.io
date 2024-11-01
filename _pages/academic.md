@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "ACADEMIC"
+permalink: /academic/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computational Mathematics, Indian Institute of Technology Madras, Chennai (2019-Present), CGPA 8.87/10.
+* M.Sc. in Mathematics, Ramakrishna Mission Vivekananda Educational And Research Institute(RKMVERI), Howrah (2017-2019), CGPA 9.43.
+* B.Sc. in Mathematics (Hons.) Midnapore College (Autonomous), Midnapore (2014-2017), Percentage 81.25%. 
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -30,7 +30,7 @@ Work experience
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
 Skills
 ======
