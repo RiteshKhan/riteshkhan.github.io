@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my Homepage. I am a Research Scholar in the Department of Mathematics IIT Madras. I joined here in July 2019. My broad research areas are Numerical linear Algebra, Fast algorithms in Scientific Computing, and Fast solvers.
+Hi, welcome to my Homepage. I am a Research Scholar in the Department of Mathematics, IIT Madras. I started here in July 2019 and am set to submit my PhD thesis in November 2024. My broad research areas are Numerical linear Algebra, Fast algorithms in Scientific Computing, Fast solvers, and High-performance computing.
 
 
 <!-- A data-driven personal website
