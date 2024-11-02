@@ -16,11 +16,11 @@ Talks
 * Numerical rank of kernel functions, **Indo-German conference on Computational Mathematics (IGCM 2023)**, March 27-30, 2023, IISc, Department of CDS, Bangalore, India.
 * Low-rank approximation & Hierarchical matrices, **In-House Symposium**, July 29-30, 2022, IIT Madras, Department of Mathematics, Chennai, India.
 
-POSTERS
+Posters
 ======
 * Fast Kernel Methods, May 13, 2023, **Robert Bosch Centre for Data Science and Artificial Intelligence (RBCDSAI)**, IIT Madras, Chennai, India.
 
-WORKSHOPS
+Workshops
 ======
 * Winter School on Hierarchical Matrices, February 09-12, 2024, **Kiel University** (Online).
 *  Linear Algebra and its Applications, December 19-24, 2020, **IIT Delhi**, India.
