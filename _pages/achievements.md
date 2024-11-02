@@ -16,7 +16,7 @@ Achievements
 
 * Qualified NBHM written test in March 2019.
 
-* Qualified JAM (Joint Admission test for M.Sc. in IITs) 2017 with **AIR 250**.
+* Qualified JAM (Joint Admission test for M.Sc. in IITs) 2017 with **AIR-250**.
 
 * Recipient of the INSPIRE Scholarship (DST SHE) 2014-2019.
 
