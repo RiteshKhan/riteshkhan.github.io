@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: ":wave: Welcome to Ritesh's homepage"
+title: "Welcome to Ritesh's homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi, welcome to my Homepage. I am a Research Scholar in the Department of Mathematics, Indian Institute of Technology Madras. I started here in July 2019 and am set to submit my PhD thesis in November 2024. My broad research areas are Numerical linear Algebra, Fast algorithms in Scientific Computing, Fast solvers, and High-performance computing.
+Hi :wave:, welcome to my Homepage. I am a Research Scholar in the Department of Mathematics, Indian Institute of Technology Madras. I started here in July 2019 and am set to submit my PhD thesis in November 2024. My broad research areas are Numerical linear Algebra, Fast algorithms in Scientific Computing, Fast solvers, and High-performance computing.
 
 
 <!-- A data-driven personal website
