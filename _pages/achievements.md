@@ -20,6 +20,6 @@ Achievements
 
 * Recipient of the INSPIRE Scholarship (DST SHE) 2014-2019.
 
-*  Secured **3rd rank** in the district in the Secondary Examination (WBBSE 2012).
+* Secured **3rd rank** in the district in the Secondary Examination (WBBSE 2012).
 
 

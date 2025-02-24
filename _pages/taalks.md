@@ -23,4 +23,4 @@ Posters
 Workshops
 ======
 * Winter School on Hierarchical Matrices, February 09-12, 2024, **Kiel University** (Online).
-*  Linear Algebra and its Applications, December 19-24, 2020, **IIT Delhi**, India.
+* Linear Algebra and its Applications, December 19-24, 2020, **IIT Delhi**, India.
