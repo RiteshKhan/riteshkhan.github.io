@@ -12,6 +12,8 @@ Hi :wave:, welcome to my personal webpage. I am a Research Scholar in the Depart
 
 <a href="https://info.flagcounter.com/Oooz"><img src="https://s11.flagcounter.com/count2/Oooz/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_8/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
+*"The problem with the world is that the intelligent people are full of doubts, while the stupid ones are full of confidence."*
+-**Charles Bukowski**
 
 <!-- A data-driven personal website
 ======
