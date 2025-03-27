@@ -22,9 +22,9 @@ repository               : "riteshkhan/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Ritesh Khan"
+  name             : "Dr. Ritesh Khan"
   pronouns         : "he/him"  
-  bio              : "Pursuing PhD in Computational Mathematics at IIT Madras"
+  bio              : "PhD in Computational Mathematics"
   location         : "India"
   employer         : "IIT Madras"
   uri              : "https://www.riteshkhan.in"
