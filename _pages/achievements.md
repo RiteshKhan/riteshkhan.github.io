@@ -10,7 +10,7 @@ redirect_from:
 
 Achievements
 ======
-* Recipient of the **Institute Research Award** (2025), IIT Madras, India.
+<!-- * Recipient of the **Institute Research Award** (2025), IIT Madras, India. -->
 
 * Qualified Joint CSIR-UGC Fellowship (JRF) with **AIR-50** in Dec 2018 & **AIR-66** in June 2019.
 
