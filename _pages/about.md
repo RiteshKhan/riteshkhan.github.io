@@ -9,7 +9,7 @@ redirect_from:
 
 Hi :wave:, welcome to my personal webpage. Ritesh Khan holds a PhD in Mathematics with a specialization in Computational Mathematics from the Indian Institute of Technology Madras. My broad research areas are Numerical linear Algebra, Boundary Element Method, Fast matrix algorithms, Fast solvers, and High-performance computing, etc.
 
-<a href="https://info.flagcounter.com/Oooz"><img src="https://s11.flagcounter.com/count2/Oooz/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/Oooz"><img src="https://s11.flagcounter.com/count2/Oooz/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_16/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 
 *"The problem with the world is that the intelligent people are full of doubts, while the stupid ones are full of confidence."*
