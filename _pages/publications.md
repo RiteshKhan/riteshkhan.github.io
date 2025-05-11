@@ -14,8 +14,8 @@ redirect_from:
 
 Publications
 ======
-* Sivaram Ambikasaran, **Ritesh Khan**, Johannes Tausch, Sihao Wang. A hybrid interpolation ACA accelerated method for parabolic boundary integral operators, **SIAM Journal on Scientific Computing** (accepted & in press), <https://arxiv.org/abs/2408.04080>.
-* **Ritesh Khan**, Sivaram Ambikasaran. New Algebraic Fast Algorithms for N-body Problems in Two and Three Dimensions, **Communications in Computational Physics** (accepted & in press), <https://arxiv.org/abs/2309.14085>.
+* Sivaram Ambikasaran, **Ritesh Khan**, Johannes Tausch, Sihao Wang. A Hybrid Interpolation ACA Accelerated Method for Parabolic Boundary Integral Operators, **SIAM Journal on Scientific Computing, Volume 47(3), 2025, A1507-A1526**, <https://doi.org/10.1137/24M1683809>.
+* **Ritesh Khan**, Sivaram Ambikasaran. New Algebraic Fast Algorithms for N-body Problems in Two and Three Dimensions, **Communications in Computational Physics, Volume 37(4), 2025, 1157–1226**, <https://doi.org/10.4208/cicp.OA-2024-0100>.
 * **Ritesh Khan**, V.A. Kandappan, Sivaram Ambikasaran. HODLRdD: A new black-box fast algorithm for N-body problems in d-dimensions with guaranteed error bounds: Applications to integral equations and support vector machines, **Journal of Computational Physics, Volume 501, 2024, 112786**, <https://doi.org/10.1016/j.jcp.2024.112786>.
 
   
