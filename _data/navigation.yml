@@ -11,13 +11,13 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Skills"
-    url: /skills/ 
-
   - title: "Awards & Achievements"
     url: /awards/   
 
-  - title: "Conferences"
+  - title: "Skills"
+    url: /skills/ 
+
+  - title: "Presentations"
     url: /talks/   
 
   - title: "CV"
