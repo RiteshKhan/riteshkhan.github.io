@@ -10,6 +10,8 @@ redirect_from:
 
 Achievements
 ======
+* Awarded the \textbf{\emph{Smt Lakshmikutty Amma and Shri A Krishnankutty Nair Prize} for the best Ph.D. thesis in Mathematics} at the $62^{nd}$ Convocation of IIT Madras, India, 2025.
+
 * Awarded the **Institute Research (IR) Award** (2025), IIT Madras, India.
 
 * Awarded the **Half Time Research Assistantship (HTRA)** fellowship (2019-2024), IIT Madras, India.
