@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computational Mathematics, Indian Institute of Technology Madras, Chennai, India. (2019-2024) **CGPA 8.87/10**  (defended thesis on March 25, 2025).
+* Ph.D in Computational Mathematics, Indian Institute of Technology Madras, Chennai, India. (2019-2024) **CGPA 9.54/10**  (defended thesis on March 25, 2025).
 * M.Sc. in Mathematics, Ramakrishna Mission Vivekananda Educational And Research Institute (RKMVERI), Howrah, India. (2017-2019) **CGPA 9.43/10**.
 * B.Sc. in Mathematics (Hons.) Midnapore College (Autonomous), Midnapore, India. (2014-2017), **Percentage 81.25%**. 
 

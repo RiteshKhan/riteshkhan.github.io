@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Awards/Achievements
+Awards and Achievements
 ======
 * Awarded the *Smt Lakshmikutty Amma and Shri A Krishnankutty Nair Prize* for the **best Ph.D. thesis in Mathematics**, IIT Madras, India, 2025.
 
