@@ -12,7 +12,7 @@ redirect_from:
 Talks
 ======
 * A new kernel-independent fast algorithm for *N*-body problems in *d* dimensions, **International Congress on Industrial and Applied Mathematic (ICIAM 2023)**, August 20-25, 2023, Waseda University, Tokyo, Japan.
-* HODLRdD: A fast black-box algorithm for N-body problems in *d* dimensions with application in SVM, **Prague Workshop on Numerical Mathematics**, July 20-21, 2023, Prague, Czechia.
+* HODLRdD: A fast black-box algorithm for *N*-body problems in *d* dimensions with application in SVM, **Prague Workshop on Numerical Mathematics**, July 20-21, 2023, Prague, Czechia.
 * Numerical rank of kernel functions, **Indo-German conference on Computational Mathematics (IGCM 2023)**, March 27-30, 2023, IISc, Department of CDS, Bangalore, India.
 * Low-rank approximation & Hierarchical matrices, **In-House Symposium**, July 29-30, 2022, IIT Madras, Department of Mathematics, Chennai, India.
 
