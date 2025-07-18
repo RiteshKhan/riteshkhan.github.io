@@ -1,9 +1,9 @@
 ---
 layout: archive
-permalink: /achievements/
+permalink: /awards/
 author_profile: true
 redirect_from:
-  - /achievements
+  - /awards
 ---
 
 {% include base_path %}
