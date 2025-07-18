@@ -17,11 +17,11 @@ main:
   - title: "Awards & Achievements"
     url: /awards/   
 
-  - title: "Talks"
+  - title: "Conferences"
     url: /talks/   
 
   - title: "CV"
-    url: /files/CV.pdf 
+    url: /files/ritesh_CV_june25.pdf 
         
   # - title: "News"
   #   url: /year-archive/
