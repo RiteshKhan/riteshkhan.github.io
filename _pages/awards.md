@@ -24,7 +24,7 @@ Awards and Achievements
 
 * Achieved **2nd rank** in the class in Master of Science (CGPA: 9.43/10), RKMVERI, India, 2017-2019.
 
-* Qualified JAM (Joint Admission test for M.Sc. in IITs) 2017 with **AIR-250**. (not availed)
+* Qualified JAM (Joint Admission test for M.Sc. in IITs) 2017 with **AIR-250** (not availed).
 
 * Awarded *INSPIRE Scholarship*, 2014-2019, DST, Govt. of India.
 
