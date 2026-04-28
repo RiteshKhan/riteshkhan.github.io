@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi :wave:, welcome to my personal webpage. Currently, I am a post-doctoral researcher in the Department of Numerical Mathematics at [Charles University](https://www.mff.cuni.cz/cs/math/knm). 
+Hi :wave:, welcome to my personal webpage. Currently, I am a post-doctoral researcher in the [Department of Numerical Mathematics](https://www.mff.cuni.cz/cs/math/knm) at Charles University, Prague. 
 
 I obtained my PhD in Mathematics with a specialization in Computational Mathematics from the Indian Institute of Technology Madras. My research is interdisciplinary in nature and lies at the intersection of Mathematics and Computing. My broad research interests include numerical linear algebra, mixed-precision algorithms, hierarchical matrices, fast matrix computations, fast solvers, Krylov subspace methods, preconditioning, randomized algorithms, approximation techniques, high-performance computing, and boundary element methods.
 
