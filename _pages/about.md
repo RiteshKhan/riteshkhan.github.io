@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi :wave:, welcome to my personal webpage. Ritesh Khan holds a PhD in Mathematics with a specialization in Computational Mathematics from the Indian Institute of Technology Madras. My broad research areas are Numerical linear Algebra, Boundary Element Method, Fast matrix algorithms, Fast solvers, and High-performance computing, etc.
+Hi :wave:, welcome to my personal webpage. Currently, I am a post-doctoral researcher in the Department of Numerical Mathematics at [Charles University](https://www.mff.cuni.cz/cs/math/knm). 
+
+I obtained my PhD in Mathematics with a specialization in Computational Mathematics from the Indian Institute of Technology Madras. My research is interdisciplinary in nature and lies at the intersection of Mathematics and Computing. My broad research interests include numerical linear algebra, mixed-precision algorithms, hierarchical matrices, fast matrix computations, fast solvers, Krylov subspace methods, preconditioning, randomized algorithms, approximation techniques, high-performance computing, and boundary element methods.
 
 <a href="https://info.flagcounter.com/Oooz"><img src="https://s11.flagcounter.com/count2/Oooz/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_16/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 

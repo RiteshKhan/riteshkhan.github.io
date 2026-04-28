@@ -18,8 +18,8 @@ Publications
   
 Preprints
 ======
-* **Ritesh Khan**, Sivaram Ambikasaran. New hybrid hierarchical matrix algorithms for fast kernel
-matrix-vector product (under review).
+* **Ritesh Khan**, Erin Carson. Hybrid hierarchical matrices with adaptive mixed precision storage, <https://arxiv.org/pdf/2604.09147>.
+* **Ritesh Khan**, Sivaram Ambikasaran. New hierarchical matrices for fast kernel matrix-vector products with applications: Applications to Gaussian Processes and Kernel Ridge Regression (under review).
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
