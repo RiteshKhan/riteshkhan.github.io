@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computational Mathematics, Indian Institute of Technology Madras, Chennai, India. (2019-2024) **CGPA 9.54/10**  (defended thesis on March 25, 2025).
-* M.Sc. in Mathematics, Ramakrishna Mission Vivekananda Educational And Research Institute (RKMVERI), Howrah, India. (2017-2019) **CGPA 9.43/10**.
-* B.Sc. in Mathematics (Hons.) Midnapore College (Autonomous), Midnapore, India. (2014-2017), **Percentage: 81.25%**. 
-* 12th standard, Higher Secondary (WBCHSE), West Bengal, India. (2014), **Percentage: 88.2%**. 
-* 10th standard, Secondary (WBBSE), West Bengal, India. (2012), **Percentage: 94%**. 
+* Ph.D in Computational Mathematics, Indian Institute of Technology Madras, Chennai, India (2019-2024) **CGPA 9.54/10**  (defended thesis on March 25, 2025).
+* M.Sc. in Mathematics, Ramakrishna Mission Vivekananda Educational And Research Institute (RKMVERI, formerly RKMVU), Howrah, India (2017-2019) **CGPA 9.43/10**.
+* B.Sc. in Mathematics (Hons.) Midnapore College (Autonomous), Midnapore, India (2014-2017), **Percentage: 81.25%**. 
+* 12th standard, Higher Secondary (WBCHSE), West Bengal, India (2014), **Percentage: 88.2%**. 
+* 10th standard, Secondary (WBBSE), West Bengal, India (2012), **Percentage: 94%**. 
 
 <!-- Work experience
 ======

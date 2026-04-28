@@ -11,7 +11,7 @@ redirect_from:
 
 Talks
 ======
-* Hybrid hierarchical matrices with adaptive precision storage, **The $16th$ Czechoslovak Equadiff**, June 29-July 3, 2026, Prague, Czech Republic.
+* Hybrid hierarchical matrices with adaptive precision storage, **The 16th Czechoslovak Equadiff**, June 29-July 3, 2026, Prague, Czech Republic.
 * Adaptive mixed precision hierarchical matrices, **International Linear Algebra Society (ILAS 2026)**, May 18-22, 2026, Virginia Tech, Blacksburg, Virginia, USA.
 * A new hierarchical matrix algorithm for accelerating kernel support vector machines, **Conference on Modern Kernel Methods and Applications**, January 5-9, 2026, Hong Kong Baptist University, Kowloon, Hong Kong SAR.
 * Accelerating dense matrix computations using hierarchical matrices, November 13 & 19, 2025, Charles University, Department of Numerical Mathematics, Prague, Czech Republic.
