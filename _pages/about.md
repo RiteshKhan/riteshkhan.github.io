@@ -14,8 +14,8 @@ I obtained my PhD in Mathematics with a specialization in Computational Mathemat
 <a href="https://info.flagcounter.com/Oooz"><img src="https://s11.flagcounter.com/count2/Oooz/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_16/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 
-*"The problem with the world is that the intelligent people are full of doubts, while the stupid ones are full of confidence."*
--**Charles Bukowski**
+*"The first principle is that you must not fool yourself and you are the easiest person to fool."*
+-**Richard P. Feynman**
 
 <!-- A data-driven personal website
 ======
